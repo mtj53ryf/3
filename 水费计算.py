@@ -8,4 +8,4 @@ elif (a>300):
 else:
     print("输入有误")
     quit()
-print("总水费：{}元".format(b))
+print("总水费：{:.2f}元".format(b))
